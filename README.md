@@ -5,7 +5,7 @@ This project was developed as a part of Lab Work for the Graduate Course CMPE 27
 # System Architecture and Design:
 The system architecture used previously was remodeled by implementing NoSQL MongoDB in place of MySQL & Redux with ReactJS to manage states. Also, the system performance was augmented by incorporating Apache Kafka for messaging queues.
 
-The new system architecture was based on 5 technologies namely Redux, React, NodeJS, Kafka and Mongo DB. These technologies had various significance with respect to their usage. 
+The new system architecture was based on 6 technologies namely Redux, React, NodeJS, Kafka, Mongo DB and Amazon AWS. These technologies had various significance with respect to their usage. 
 
 1. Redux: Redux was used for maintaining a store wherein anyone from the application can fetch and update the data based on the actions carried out in the application. It was important as it helped reduce the complexity of passing data through various React components and was efficient in code maintainability.
 
